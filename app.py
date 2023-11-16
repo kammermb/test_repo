@@ -1,7 +1,7 @@
 import streamlit as st
 
 from Feature1 import return_even
-from Feature2 import return_odd
+from feature2 import return_odd
 
 org_list = [i for i in range(10)]
 
